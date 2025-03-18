@@ -1,0 +1,6 @@
+[submodule "Bookmarks_RoR"]
+	path = Bookmarks_RoR
+	url = git@github.com:DrAIex/Bookmarks_RoR.git
+[submodule "Bookmarks_React"]
+	path = Bookmarks_React
+	url = git@github.com:DrAIex/Bookmarks_React.git
